@@ -40,28 +40,28 @@ The backend is powered by a Logistic Regression model trained on the Kaggle data
 ### 🔹 1. Admin Login Page  
 Secure login interface for admin access.
 
-<img src="screenshots/login.png" alt="Admin Login" width="700"/>
+<img src="Screenshots/login.png" alt="Admin Login" width="700"/>
 
 ---
 
 ### 🔹 2. Single Record Prediction  
 Interface to enter and test one transaction at a time.
 
-<img src="screenshots/single record.png" alt="Single Record Prediction" width="700"/>
+<img src="Screenshots/single record.png" alt="Single Record Prediction" width="700"/>
 
 ---
 
 ### 🔹 3. Multiple Record Upload  
 Upload a file to test fraud on multiple transactions.
 
-<img src="screenshots/multirecord.png" alt="Multiple Record Upload" width="700"/>
+<img src="Screenshots/multirecord.png" alt="Multiple Record Upload" width="700"/>
 
 ---
 
 ### 🔹 4. Fraud Analysis Dashboard  
 Graphical insights into fraud trends and results.
 
-<img src="screenshots/aqnalysis.png" alt="Analysis Dashboard" width="700"/>
+<img src="Screenshots/analysis.png" alt="Analysis Dashboard" width="700"/>
 
 
 ## 🔗 Dataset
